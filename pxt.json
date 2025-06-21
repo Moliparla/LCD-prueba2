@@ -1,0 +1,11 @@
+{
+  "name": "lcd-i2c",
+  "description": "Extensión MakeCode para controlar pantallas LCD 16x2 (I2C)",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "preferredEditor": "blocksprj",
+  "license": "MIT"
+}
